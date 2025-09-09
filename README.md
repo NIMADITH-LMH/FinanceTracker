@@ -34,15 +34,6 @@
 - **Local Storage**: All your financial data stays secure on your device
 - **Notification Preferences**: Customize how and when you receive alerts
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/537bcd9d-3395-4e57-bbb2-24439928ffe5" width="220" alt="Home Screen"/>
-  <img src="https://github.com/user-attachments/assets/ff4bd7a7-dbf4-4885-ae22-c49930773b7c" width="220" alt="Transactions"/>
-  <img src="https://github.com/user-attachments/assets/272e62b0-d4c1-4f4c-9ba7-590fd335ee6f" width="220" alt="Analytics"/>
-  <img src="https://github.com/user-attachments/assets/638c0ef5-3c6d-41f6-bd5c-ff226b638da1" width="220" alt="Budget Setup"/>
-</div>
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ea9a23e5-c94e-4a4c-8709-e5bd0d6db13e" width="220" alt="Category Analysis"/>
   <img src="https://github.com/user-attachments/assets/8703f3b6-3010-455f-b389-0de66d9a7033" width="220" alt="Income Tracking"/>
